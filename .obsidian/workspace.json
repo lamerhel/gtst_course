@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a34ece611216031a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 4 MoreLinux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day1_Introduction.md",
+                "file": "Day 4 MoreLinux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day1_Introduction.md",
+                "file": "Day 4 MoreLinux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day1_Introduction.md"
+                "file": "Day 4 MoreLinux.md"
               }
             }
           }
@@ -159,9 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d9b6a06240a6ba7",
+  "active": "a34ece611216031a",
   "lastOpenFiles": [
-    "README.md",
-    "Day1_Introduction.md"
+    "Day1_Introduction.md",
+    "Day 4 MoreLinux.md",
+    "README.md"
   ]
 }
