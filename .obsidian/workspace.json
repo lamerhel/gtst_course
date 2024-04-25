@@ -37,14 +37,74 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Day6 Last lesson on Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f44d480dc6035ae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day6 Last lesson on Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3867c1f66452323f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Day 4 MoreLinux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db56074d518398a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 4 MoreLinux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "227df86e2e47f1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day5 Advanced user.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e34412daef8f3f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day6 Last lesson on Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 4 MoreLinux.md",
+                "file": "Day6 Last lesson on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 4 MoreLinux.md",
+                "file": "Day6 Last lesson on Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 4 MoreLinux.md"
+                "file": "Day6 Last lesson on Linux.md"
               }
             }
           }
@@ -171,9 +231,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a34ece611216031a",
+  "active": "f44d480dc6035ae8",
   "lastOpenFiles": [
+    "Day7_Introduction to python.md",
+    "Day6 Last lesson on Linux.md",
     "Day 4 MoreLinux.md",
+    "Day5 Advanced user.md",
+    "Commands on Linux terminal.md",
+    "Day 3 Introduction to Linux.md",
     "Day1_Introduction.md",
     "README.md"
   ]

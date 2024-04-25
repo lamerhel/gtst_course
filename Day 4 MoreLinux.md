@@ -48,20 +48,18 @@ By storing these critical files in a separate directory (`/boot`), it helps ensu
 8. **`/mnt` (Mount Point)**:
     
     - Typically used as a temporary mount point for mounting external storage devices like USB drives.
-    - The difference between /mnt and /dev
-     A. **/mnt (Mount Point)**:
+    - **The difference between /mnt and /dev**
     
+     A. **/mnt (Mount Point)**:
     - The `/mnt` directory is used as a standard location for temporarily mounting external storage devices, network shares, or other filesystems.
     - When you want to access files on a USB drive, a network share, or any other external storage device, you typically mount it under the `/mnt` directory.
     - It is a convention for users to manually mount filesystems to `/mnt` when needed, although many Linux distributions may use other directories for this purpose as well.
      B.**/dev (Device Files)**:
-    
     - The `/dev` directory contains special device files that represent devices attached to the system, such as hard drives, USB drives, CD-ROM drives, serial ports, and more.
     - These device files allow user programs and the operating system to communicate with and access hardware devices in a standardized way.
     - `/dev` is not intended for manual mounting of filesystems; instead, it provides access to device drivers and interfaces for system components.
     -
    9.**`/opt` (Optional Packages)**:
-    
     - Contains optional software packages that are not part of the default installation.
 10. **`/proc` (Process Information)**:
     
