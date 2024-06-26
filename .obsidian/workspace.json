@@ -49,7 +49,127 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day6 Last lesson on Linux.md",
+                "file": "Day 4 MoreLinux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a54c1c87d5d10c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day8 More Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2be71c6b8c45c85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27ebac5164535eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day10_Introduction to Bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d57b9b3d1de89b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day7_Introduction to python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "474dafe28fe648bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rough notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5861d6091319c2d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rough notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "889b5606dc676e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 4 MoreLinux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dfa25db1056b452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History note unit 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5bf31f496f40f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History note unit 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "397f56b18e8fd32a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History unit 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +222,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e234aa5b08ab1083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History unit 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -154,7 +286,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "6a3d91202279d1f8",
@@ -170,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day6 Last lesson on Linux.md",
+                "file": "History unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day6 Last lesson on Linux.md",
+                "file": "History unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day6 Last lesson on Linux.md"
+                "file": "History unit 1.md"
               }
             }
           }
@@ -231,14 +363,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f44d480dc6035ae8",
+  "active": "e234aa5b08ab1083",
   "lastOpenFiles": [
-    "Day7_Introduction to python.md",
-    "Day6 Last lesson on Linux.md",
+    "History note unit 3.md",
+    "History unit 1.md",
+    "Notes.md",
     "Day 4 MoreLinux.md",
-    "Day5 Advanced user.md",
-    "Commands on Linux terminal.md",
+    "SMTP.md",
+    "rough notes.md",
     "Day 3 Introduction to Linux.md",
+    "S2D1 Information gathering or Recon or Footpring.md",
+    "Day7_Introduction to python.md",
+    "Day12 Networking for hackers.md",
+    "Day10_Introduction to Bash.md",
+    "Day8 More Python.md",
+    "Day5 Advanced user.md",
+    "Day6 Last lesson on Linux.md",
+    "Commands on Linux terminal.md",
     "Day1_Introduction.md",
     "README.md"
   ]
